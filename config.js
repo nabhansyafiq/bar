@@ -3,22 +3,22 @@ buy no enc pm : Gada Habis Di Crack Ama Akmal Terus Enc Lagi Karena Takut Di Amb
 require("./database/module")
 
 // Setting Payment
-global.storename = "Crack By Akmal"
+global.storename = "Crack By Lorric"
 // Setting Nama Store
 global.dana = ""
 // Setting Payment Dana
 global.qris = ""
 // Setting Payment Qris
 
-global.owner = "628812454879"
+global.owner = "628895154319"
 // Setting Nomor Owner
 global.namabot = "Vindictive"
 // Setting Nama Bot
-global.nomorbot = "628812454879" 
+global.nomorbot = "6288227606701" 
 // Setting Nomor Bot
-global.namaCreator = "Crack By Akmal"
+global.namaCreator = "Crack By Lorric"
 // Jangan Di Ganti Ya Dek
-global.linkyt = "https://youtube.com/@akmalmods?si=adkjLkrm7jH_3x4x"
+global.linkyt = "https://youtube.com/search"
  // Setting Link Youtube, berhubung gw gada yt jadi gua kasih link saluran
 
 global.autoJoin = false
@@ -40,11 +40,11 @@ global.location = '1'
 global.codeInvite = ""
 global.imageurl = 'https://i.ibb.co.com/Gtvh1M0/ef4417c9-4c81-4249-9b5b-7d1baed38ab0.jpg' 
 // Pastikan Image Sudah Menjadi Url
-global.isLink = 'https://whatsapp.com/channel/0029Vao3TsFFsn0YkP1wDl3z' 
+global.isLink = 'https://whatsapp.com' 
 // Setting Link Saluranmu
-global.packname = "AkmalMods"
+global.packname = "Lorric"
 // Setting Packame Stiker
-global.author = "628812454879"
+global.author = "628895154319"
 // Jangan Diganti Ya Dek
 global.jumlah = "5"
 
